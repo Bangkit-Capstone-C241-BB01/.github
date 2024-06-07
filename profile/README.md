@@ -1,6 +1,6 @@
 ## C241-BB01 Bangkit Company-Based Capstone Project
 
-| Role               | Student ID   | Name                                                 | University                                          |
+| Learning Path      | Student ID   | Name                                                 | University                                          |
 | ------------------ | ------------ | ---------------------------------------------------- | --------------------------------------------------- |
 | Machine Learning   | M172D4KY2673 | [Frederic Davidsen](https://github.com/fdavidsen)    | Universitas Mikroskil                               |
 | Machine Learning   | M700D4KX3318 | [Patricia Ho](https://github.com/patriciasky17)      | Universitas Pradita                                 |
